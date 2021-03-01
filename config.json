@@ -1,0 +1,8 @@
+{
+  "public": 8080,
+  "private": 8082,
+  "forward": {
+    "host": "localhost",
+    "port": 8081
+  }
+}
